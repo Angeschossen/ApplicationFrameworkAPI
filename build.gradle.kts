@@ -17,7 +17,7 @@ java {
 }
 
 group = "com.github.angeschossen"
-version = "1.0.0"
+version = "1.0.1"
 description = "ApplicationFrameworkAPI"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
